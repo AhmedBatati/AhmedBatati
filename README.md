@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Al-Batati 👋
 
-<!--
-**AhmedBatati/AhmedBatati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 IT Student & AI-Driven Software Engineer
 
-Here are some ideas to get you started:
+An enthusiastic **Information Technology** student at the Faculty of Engineering and Computer Science, **Al-Ahgaff University**, with a solid academic foundation and a future-focused mindset. Specializing in building robust full-stack web applications and leveraging cutting-edge **AI Agentic Workflows** to redefine modern software engineering practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🏫 **Education:** Projecting a strong academic path in Information Technology at Al-Ahgaff University, Yemen.
+- 🤖 **AI-Augmented Engineering:** Actively pioneering the use of **AI Agents** (acting as an AI Software Engineer) to streamline and optimize project planning, requirements analysis, system architecture, and automated testing.
+- 💻 **Full-Stack Development:** Proficient in designing end-to-end applications with a preference for **Python (Flask)**, **Vanilla JavaScript**, **SQLite**, and **PostgreSQL**.
+- 🌐 **Next-Gen Web:** Exploring 3D web experiences and browser-based graphics using **Three.js** and **WebGL**.
+- ☁️ **Cloud Computing:** Expanding technical capabilities through an **AWS-certified** learning path.
+
+---
+
+### 🛠️ Technical Skills
+
+- **Core Foundations:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Software Engineering Principles, Project Management & Administration.
+- **Backend Development:** Python (Flask), Database Design & Management (SQLite, PostgreSQL).
+- **Frontend Development:** HTML5, CSS3, Vanilla JavaScript, 3D Graphics (Three.js).
+- **AI & Automation:** AI Agents, Ollama, Local LLM integration, Agentic Software Development.
+- **Tools & Platforms:** Git, GitHub, Linux, Vercel.
+
+---
+
+### 📌 Featured Projects
+- **[NewSmartInventory](https://github.com/AhmedBatati/NewSmartInventory)** - A smart inventory management system built with robust backend logic and structured database architecture.
+- **[PrimeCore](https://github.com/AhmedBatati/PrimeCore)** - A localized technical hardware platform fully adapted for seamless RTL (Right-to-Left) Arabic compatibility.
+
+---
+
+### 🤝 Connect with Me
+- 💼 [LinkedIn](تبدل_بالرابط_الخاص_بملف_لينكد_إن)
+- 📧 [Email](تبدل_بالبريد_الإلكتروني_الخاص)
