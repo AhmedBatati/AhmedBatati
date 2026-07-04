@@ -11,7 +11,6 @@ An enthusiastic **Information Technology** student at the Faculty of Engineering
 - 🤖 **AI-Augmented Engineering:** Actively pioneering the use of **AI Agents** (acting as an AI Software Engineer) to streamline and optimize project planning, requirements analysis, system architecture, and automated testing.
 - 💻 **Full-Stack Development:** Proficient in designing end-to-end applications with a preference for **Python (Flask)**, **Vanilla JavaScript**, **SQLite**, and **PostgreSQL**.
 - 🌐 **Next-Gen Web:** Exploring 3D web experiences and browser-based graphics using **Three.js** and **WebGL**.
-- ☁️ **Cloud Computing:** Expanding technical capabilities through an **AWS-certified** learning path.
 
 ---
 
