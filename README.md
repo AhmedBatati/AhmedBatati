@@ -26,11 +26,10 @@ An enthusiastic **Information Technology** student at the Faculty of Engineering
 ---
 
 ### 📌 Featured Projects
-- **[NewSmartInventory](https://github.com/AhmedBatati/NewSmartInventory)** - A smart inventory management system built with robust backend logic and structured database architecture.
 - **[PrimeCore](https://github.com/AhmedBatati/PrimeCore)** - A localized technical hardware platform fully adapted for seamless RTL (Right-to-Left) Arabic compatibility.
 
 ---
 
 ### 🤝 Connect with Me
-- 💼 [LinkedIn](تبدل_بالرابط_الخاص_بملف_لينكد_إن)
-- 📧 [Email](تبدل_بالبريد_الإلكتروني_الخاص)
+- 💼 [LinkedIn](https://www.linkedin.com/in/احمد-البطاطي-b5164941b)
+- 📧 [Email](mailto:ahmedalbatati2004@gmail.com)
